@@ -6,7 +6,9 @@ Primera edicion del readme
 
 
 creacion de la primera branch
-=======
+
 no hay merge  
 
 editado desde desktop
+
+modificado desde web
