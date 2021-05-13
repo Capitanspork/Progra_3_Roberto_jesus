@@ -12,3 +12,5 @@ no hay merge
 editado desde desktop
 
 modificado desde web
+
+editado desde desktop
