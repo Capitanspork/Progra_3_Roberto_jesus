@@ -2,3 +2,5 @@
 ejercicio clase progra3
 
 Primera edicion del readme
+
+no hay merge  
